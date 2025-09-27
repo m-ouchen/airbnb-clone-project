@@ -12,6 +12,10 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Software developer
   - Engineers and stabilizes the product
   - Solves any technical problems emerging during the development lifecycle
+ 
+## Technology Stack
+
+Django, PostgreSQL, GraphQL
 
 ## Database Design
 
